@@ -10,8 +10,8 @@ My name is Luis Zerkowski and I'm a **MSc Artificial Intelligence candidate** wi
 
 <div align="center">
 
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=luizerko&show_icons=true&theme=dark" />
-  <img width="40" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizerko&hide_progress=true&theme=dark&size_weight=0.5&count_weight=0.5&langs_count=8&hide=makefile,html,css" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizerko&show_icons=true&theme=dark" />
+  <img width="20" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizerko&hide_progress=true&theme=dark&size_weight=0.5&count_weight=0.5&langs_count=8&hide=makefile,html,css" />
 
 </div>
