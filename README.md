@@ -27,7 +27,7 @@ My name is Luis Zerkowski and I'm a **MSc Artificial Intelligence candidate** wi
   <a href="https://github.com/Luizerko/indigenous_clusters_and_communities">
     <img height="140em" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=luizerko&repo=indigenous_clusters_and_communities&show_owner=true&theme=dark" />
   </a>
-  <img width="30" />
+  <br>
   <a href="https://github.com/Luizerko/gerador_de_questoes">
     <img height="140em" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=luizerko&repo=gerador_de_questoes&show_owner=true&theme=dark" />
   </a>
@@ -35,7 +35,7 @@ My name is Luis Zerkowski and I'm a **MSc Artificial Intelligence candidate** wi
   <a href="https://github.com/CERNDocumentServer/cds-videos-transfer">
     <img height="140em" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=CERNDocumentServer&repo=cds-videos-transfer&show_owner=true&theme=dark" />
   </a>
-  <img width="30" />
+  <br>
   <a href="https://github.com/CERNDocumentServer/cds-videos">
     <img height="140em" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=CERNDocumentServer&repo=cds-videos&show_owner=true&theme=dark" />
   </a>
@@ -43,7 +43,7 @@ My name is Luis Zerkowski and I'm a **MSc Artificial Intelligence candidate** wi
   <a href="https://github.com/HoeZey/text-guided-3dgs-scene-editing">
     <img height="140em" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=HoeZey&repo=text-guided-3dgs-scene-editing&show_owner=true&theme=dark" />
   </a>
-  <img width="30" />
+  <br>
   <a href="https://github.com/Luizerko/fluid_simulation">
     <img height="140em" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Luizerko&repo=fluid_simulation&show_owner=true&theme=dark" />
   </a>
